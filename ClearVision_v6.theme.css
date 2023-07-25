@@ -1,5 +1,5 @@
 /**
- * @name ClearVision_v6
+ * @name clear
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -13,9 +13,9 @@
 
 :root {
   --main-color: #E91E63;
-  --hover-color: #00BCD4;
-  --success-color: #00BCD4;
-  --danger-color: #00BCD4;
+  --hover-color: #1e63b3;
+  --success-color: #43b581;
+  --danger-color: #982929;
   --url-color: var(--main-color);
   --undefined: 0;
   --background-image: url('https://clearvision.github.io/images/sapphire.jpg');
@@ -30,7 +30,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-overlay: rgb(0,65,73,0.44);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
