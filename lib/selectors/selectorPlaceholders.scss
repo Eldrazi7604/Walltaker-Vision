@@ -438,6 +438,21 @@
 .inner_adcaac {
   @extend %connectionPanelInner !optional;
 }
+.wrapper_c721cc {
+  @extend %questPanel !optional;
+}
+.contentWrapperAccepted_c721cc {
+  @extend %questPanelAccepted !optional;
+}
+.contentWrapperExpanded_c721cc {
+  @extend %questPanelExpanded !optional;
+}
+.postEnrollmentBackground_c3427e {
+  @extend %questPanelAcceptedExpandedBackground !optional;
+}
+.questAcceptedContent_e23249 {
+  @extend %questPanelAcceptedExpandedContent !optional;
+}
 .connection_e2a436 {
   @extend %connections !optional;
 }
@@ -706,7 +721,7 @@
 .wrapper_cdfd51 {
   @extend %chatLoadingWrapper !optional;
 }
-.wrapper_b211c6 {
+.wrapper_b75bb9 {
   @extend %chatLoadingWrapperCozy !optional;
 }
 .uploadModalIn_f82cc7 {
@@ -721,19 +736,19 @@
 .inner_f82cc7 {
   @extend %uploadDropModalInner !optional;
 }
-.divider_fc5f50 {
+.divider_d5deea {
   @extend %divider !optional;
 }
-.isUnread_fc5f50 {
+.isUnread_c2654d {
   @extend %dividerUnread !optional;
 }
-.unreadPill_fc5f50 {
+.unreadPill_c2654d {
   @extend %unreadPill !optional;
 }
-.unreadPillCapStroke_fc5f50 {
+.unreadPillCapStroke_c2654d {
   @extend %unreadPillCapStroke !optional;
 }
-.content_fc5f50 {
+.content_c2654d {
   @extend %dividerDate !optional;
 }
 .header_b56bbc {
@@ -2214,7 +2229,7 @@ pre {
 .spoilerMarkdownContent_a3d0f7 {
   @extend %messageSpoiler !optional;
 }
-.markup_d6076c {
+.markup_f8f345 {
   @extend %markup !optional;
 }
 .icon_e62b38 {
@@ -2566,7 +2581,7 @@ pre {
 .note_c90ad7 {
   @extend %userPopoutNote !optional;
 }
-.menu_d4e7c2 {
+.menu_ad5fac {
   @extend %userPopoutMenu !optional;
 }
 .userProfileModalOuter_c69a7b {
