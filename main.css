@@ -1,5 +1,6 @@
 
 :root {
+    --primary-600: rgba(0, 0, 0, 0.6);
     --__header-bar-background: rgba(0, 0, 0, 0.4);
     --main-color:  #2780e6;
     --hover-color:  #1e63b3;
