@@ -2,7 +2,6 @@
 
 # Walltaker-Vision v1 (based on ClearVision v6)
 
-
 ## Installing
 
 **Vencord:**

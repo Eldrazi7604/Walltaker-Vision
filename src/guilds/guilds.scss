@@ -144,5 +144,16 @@
 
 // FOOTER
 %guildsFooter {
-  background: rgba(0, 0, 0, calc($bg-shading * 0.3));
+  background: transparent;
+}
+
+// TAB FOCUS
+%keyboardMode {
+  %guildFocusSimple {
+    box-shadow: 0 0 0 4px cv('colors.focus');
+  }
+  %guildFocus {
+    stroke: cv('colors.focus');
+    fill: transparent
+  }
 }
