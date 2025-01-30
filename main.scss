@@ -97,7 +97,7 @@ $version: '6.9.0';
 @import 'src/modals/eventModal';
 @import 'src/modals/addServerModal';
 @import 'src/modals/keyboardShortcuts';
-@import 'src/modals/otherModals';
+@import 'src/modals/payments';
 @import 'src/modals/screenshare';
 @import 'src/modals/threadModal';
 
@@ -170,7 +170,6 @@ $version: '6.9.0';
 @import 'src/injectors/bd/icons';
 @import 'src/injectors/bd/popouts';
 @import 'src/injectors/bd/sidebar';
-@import 'src/injectors/bd/sources';
 @import 'src/injectors/bd/plugins';
 
 // FIXES
