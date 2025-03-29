@@ -3,7 +3,7 @@
 # Walltaker-Vision v1 (based on ClearVision v6)
 
 ## Installing
-**THIS IS ONLY FOR THE OLD DISCORD UI. FOR NEW DISCORD UI, PLEASE SEE https://github.com/Eldrazi7604/Walltaker-Vision-New-UI**
+# **THIS IS ONLY FOR THE OLD DISCORD UI. FOR NEW DISCORD UI, PLEASE SEE https://github.com/Eldrazi7604/Walltaker-Vision-New-UI**
 
 **Vencord:**
 Paste this line into the online themes section of vencord: https://raw.githubusercontent.com/Eldrazi7604/Walltaker-Vision/master/Walltaker-Vision.theme.css
